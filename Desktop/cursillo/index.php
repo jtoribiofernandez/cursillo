@@ -1,2 +1,4 @@
-ingeniero de sistemas 
-carlonchitopue
+juanjo1
+juanjo2
+juanjo3
+juanjo4
